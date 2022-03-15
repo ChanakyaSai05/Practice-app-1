@@ -1,0 +1,117 @@
+/*For calculator */
+.nu {
+  background-color: lightgrey;
+  color: black;
+  width: 55px;
+  margin: 4px;
+  border-radius: 4px;
+}
+.op {
+  background-color: grey;
+  color: white;
+  width: 55px;
+  margin: 4px;
+  border-radius: 4px;
+}
+#buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+#number {
+  margin-top: 10px;
+  width: 240px;
+  height: 52px;
+  border-radius: 4px;
+}
+#container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#borderContainer {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: darkgray;
+}
+/* For Burger */
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.burgerTop {
+  background-color: rgb(255, 136, 0);
+  width: 35vw;
+  height: 10vw;
+  border-radius: 50% 50% 7px 7px;
+}
+.burgerMGreen {
+  background-color: green;
+  width: 35vw;
+  border-radius: 5px;
+  height: 2vw;
+}
+.burgerMRed {
+  background-color: red;
+  width: 15vw;
+  height: 2vw;
+  border-radius: 17px;
+}
+.burgerMYellow {
+  background-color: yellow;
+  width: 35vw;
+  height: 1vw;
+  border-radius: 17px;
+}
+.burgerBottom {
+  background-color: rgb(255, 136, 0);
+  width: 35vw;
+  height: 4vw;
+  border-radius: 5px 5px 14px 14px;
+} */
+
+/* .GateHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #21a7d0;
+  height: 3vw;
+}
+a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.banner {
+  display: flex;
+  justify-content: center;
+}
+.nav-link {
+  color: white;
+}
+.GateANav {
+  display: flex;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 2vw;
+}
+.GateANav1 {
+  border-radius: 4px;
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: justify;
+} */
